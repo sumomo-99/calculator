@@ -72,13 +72,13 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Caluculator</title>
+        <title>Calculator</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
 
       <Container>
         <Header as="h1" textAlign="center">
-          Caluculator
+          Calculator
           <Header.Subheader>
             &copy;2021 sumomo-99
           </Header.Subheader>
